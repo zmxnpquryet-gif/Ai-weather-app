@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">하늘옷장 날씨</string>
+    <string name="search_city_hint">도시 또는 지역 검색 (예: 서울, 부산, 제주, 도쿄)</string>
+    <string name="current_location">현재 위치</string>
+    <string name="refresh_weather">날씨 새로고침</string>
+    <string name="gemini_stylist_title">오늘의 옷차림 &amp; 외출 가이드</string>
+    <string name="gemini_stylist_subtitle">실시간 풍속·강수·자외선·미세먼지·습도 종합 브리핑</string>
+    <string name="umbrella_check_label">우산 지참 여부</string>
+    <string name="mask_check_label">마스크 &amp; 대기질</string>
+    <string name="uv_check_label">자외선 케어</string>
+    <string name="outfit_outer_label">겉옷 (아우터)</string>
+    <string name="outfit_top_label">상의</string>
+    <string name="outfit_bottom_label">하의</string>
+    <string name="outfit_shoes_label">신발 &amp; 소품</string>
+    <string name="wind_metric_title">풍속 &amp; 풍향</string>
+    <string name="precipitation_metric_title">강수확률 &amp; 강수량</string>
+    <string name="uv_metric_title">자외선 지수 (UV)</string>
+    <string name="air_quality_metric_title">미세먼지 &amp; 대기질</string>
+    <string name="hourly_forecast_title">시간대별 날씨 &amp; 강수 예보</string>
+    <string name="daily_forecast_title">7일 주간 기상 전망</string>
+    <string name="ask_gemini_hint">오늘 저녁 야외 테라스 괜찮을까? 등 질문하기</string>
+    <string name="ask_gemini_send">질문</string>
+    <string name="widget_title">하늘옷장 날씨 &amp; 옷차림 위젯</string>
+    <string name="widget_description">앱을 열지 않고도 현재 위치의 기온, 날씨, 우산 지참 여부와 오늘의 추천 옷차림을 홈 화면에서 바로 확인합니다.</string>
+</resources>

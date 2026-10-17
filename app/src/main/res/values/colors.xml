@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Light Mode Glassmorphism Home Screen Widget Colors -->
+    <color name="widget_bg_start">#D8E0F7FA</color>
+    <color name="widget_bg_mid">#CCE6FAF8</color>
+    <color name="widget_bg_end">#C4F0FDFA</color>
+    <color name="widget_specular_sheen">#70FFFFFF</color>
+    <color name="widget_border_stroke">#E6FFFFFF</color>
+    <color name="widget_location_pill_bg">#99FFFFFF</color>
+    <color name="widget_location_pill_border">#CCFFFFFF</color>
+    <color name="widget_inner_box_bg">#99FFFFFF</color>
+    <color name="widget_inner_box_border">#B399F6E4</color>
+    <color name="widget_outfit_glass_bg">#B8FFFFFF</color>
+    <color name="widget_outfit_glass_border">#E6FFFFFF</color>
+    <color name="widget_tag_pill_bg">#85E0F2FE</color>
+    <color name="widget_tag_pill_border">#997DD3FC</color>
+    <color name="widget_badge_bg">#E60D9488</color>
+    <color name="widget_badge_text">#FFFFFFFF</color>
+    <color name="widget_text_primary">#FF0B2239</color>
+    <color name="widget_text_secondary">#FF2C4A63</color>
+    <color name="widget_text_accent">#FF0284C7</color>
+    <color name="widget_text_guide_accent">#FF0F766E</color>
+</resources>

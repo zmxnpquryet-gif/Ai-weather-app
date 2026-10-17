@@ -1,0 +1,6 @@
+{
+  "name": "하늘옷장 날씨",
+  "description": "실시간 기상·대기질 데이터와 맞춤형 옷차림 및 우산·외출 가이드를 제공하는 날씨 앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
